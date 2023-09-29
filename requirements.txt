@@ -1,6 +1,6 @@
-matplotlib.pyplot
+matplotlib
 pandas
 seaborn
 streamlit
 plotly.express
-PIL.Image
+PIL
